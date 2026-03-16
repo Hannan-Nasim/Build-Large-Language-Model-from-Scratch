@@ -1,0 +1,20 @@
+
+
+# **Understanding Large Language Models**
+
+-   Large language models (LLMs), such as those offered in OpenAI's ChatGPT, are **deep neural network models** that have been developed over the past few years.
+-   Before the advent of large language models, **traditional methods excelled at categorization tasks such as email spam classification and straightforward pattern recognition that could be captured with handcrafted rules or simpler models**. However, **they typically underperformed in language tasks that demanded complex understanding and generation abilities, such as parsing detailed instructions, conducting contextual analysis, or creating coherent and contextually appropriate original text**.
+-   **LLMs have remarkable capabilities to understand, generate, and interpret human language**. However, it's important to clarify that **when we say language models "understand," we mean that they can process and generate text in ways that appear coherent and contextually relevant, not that they possess human-like consciousness or comprehension**.
+- **Enabled by advancements in deep learning, which is a subset of machine learning and artificial intelligence (AI) focused on neural networks, LLMs are trained on vast quantities of text data**. This allows LLMs to capture deeper contextual information and subtleties of human language compared to previous approaches. As a result, **LLMs have significantly improved performance in a wide range of NLP tasks, including text translation, sentiment analysis, question answering, and many more.**
+- Another **important distinction between contemporary LLMs and earlier NLP models is that these earlier NLP models were typically designed for specific tasks, for example, text categorization, language translation and so forth**. Whereas those earlier NLP models excelled in their narrow applications, **LLMs demonstrate a broader proficiency across a wide range of NLP tasks.**
+- **The success behind LLMs can be attributed to the transformer architecture which underpins many LLMs, and the vast amounts of data LLMs are trained on**, allowing them to capture a wide variety of linguistic nuances, contexts, and patterns that would be challenging to manually encode.
+
+## What is an LLM?
+
+ - **An LLM, a large language model, is a neural network designed to understand, generate, and respond to human-like text.** 
+ - **These models are deep neural networks trained on massive amounts of text data, sometimes encompassing large portions of the entire publicly available text on the internet.**
+ - **The "large" in large language model refers to both the model's size in terms of parameters and the immense dataset on which it's trained.** **Models like this often have tens or even hundreds of billions of parameters, which are the adjustable weights in the network that are optimized during training to predict the next word in a sequence.** Next-word prediction is sensible because it harnesses the inherent sequential nature of language to train models on understanding context, structure, and relationships within text. Yet, it is a very simple task and so it is surprising to many researchers that it can produce such capable models. 
+ - **LLMs utilize an architecture called the  _transformer_ , which allows them to pay selective attention to different parts of the input when making predictions**, making them especially adept at handling the nuances and complexities of human language.
+ - **Since LLMs are capable of _generating_ text, LLMs are also often referred to as a form of generative artificial intelligence (AI), often abbreviated as _generative AI_ or _GenAI_**. **AI encompasses the broader field of creating machines that can perform tasks requiring human-like intelligence, including understanding language, recognizing patterns, and making decisions, and includes subfields like machine learning and deep learning.**
+ 
+![relationship_between_different_fields](./images/relationship_between_different_fields.png)
