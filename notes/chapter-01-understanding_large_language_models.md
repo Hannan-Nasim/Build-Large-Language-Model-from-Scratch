@@ -18,3 +18,5 @@
  - **Since LLMs are capable of _generating_ text, LLMs are also often referred to as a form of generative artificial intelligence (AI), often abbreviated as _generative AI_ or _GenAI_**. **AI encompasses the broader field of creating machines that can perform tasks requiring human-like intelligence, including understanding language, recognizing patterns, and making decisions, and includes subfields like machine learning and deep learning.**
  
 ![relationship_between_different_fields](./images/relationship_between_different_fields.png)
+
+ ##### Figure shows this hierarchical depiction of the relationship between the different fields suggests, LLMs represent a specific application of deep learning techniques, leveraging their ability to process and generate human-like text. Deep learning is a specialized branch of machine learning that focuses on using multi-layer neural networks. And machine learning and deep learning are fields aimed at implementing algorithms that enable computers to learn from data and perform tasks that typically require human intelligence.
