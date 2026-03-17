@@ -36,4 +36,4 @@
 
 ## Stages of building and using LLMs
 - The **general process of creating an LLM includes pretraining and finetuning**. **The term "pre" in "pretraining" refers to the initial phase where a model like an LLM is trained on a large, diverse dataset to develop a broad understanding of language**. This pretrained model then serves as a foundational resource that can be further refined through **finetuning, a process where the model is specifically trained on a narrower dataset that is more specific to particular tasks or domains**. This two-stage training approach consisting of pretraining and finetuning is depicted in figure below.
-![Pretraining an LLM involves next-word prediction on large text datasets. A pretrained LLM can then be finetuned using a smaller labeled dataset.](./images/relationship_between_different_fields.png)
+![Pretraining an LLM involves next-word prediction on large text datasets. A pretrained LLM can then be finetuned using a smaller labeled dataset.](./images/pretraining_and_finetunning_in_LLMs.png)
